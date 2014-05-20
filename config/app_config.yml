@@ -8,8 +8,7 @@
 :server_user: paul
 :server_apps_path: "/opt/node"
 :subdomains:
-- www
-- mobile
+- ip
 :ruby_version: ruby-2.1.0-preview1
 :github_user: rempargo
 :github_private: true
