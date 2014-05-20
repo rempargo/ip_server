@@ -1,0 +1,18 @@
+---
+:app_name: ip-server
+:app_description: Simple node server that returns the ip address of the client.
+:internal_servers: '1'
+:internal_port: '3060'
+:domain_name: rempargo.com
+:server_ip: 144.76.203.141
+:server_user: paul
+:server_apps_path: "/opt/node"
+:subdomains:
+- www
+- mobile
+:ruby_version: ruby-2.1.0-preview1
+:github_user: rempargo
+:github_private: true
+:transip_user: nebits
+:transip_ip: 212.64.109.224
+:transip_key_file: transip_api
